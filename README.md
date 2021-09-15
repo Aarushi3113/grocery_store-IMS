@@ -67,4 +67,4 @@ Each transaction details are added in sales.json file.
 
 
 ***
-***I would like to thank Mayak Sir and ETG platform for providing me with this amazing opportunity and guiding me throughout the way .*** 
+***I would like to thank Ashish Jangra Sir and ETG platform for providing me with this amazing opportunity and guiding me throughout the way .*** 
